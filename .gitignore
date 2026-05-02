@@ -5,7 +5,6 @@ out/
 target/
 src-tauri/target/
 reference/
-.vscode/
 *.db
 *.db-shm
 *.db-wal
@@ -14,7 +13,6 @@ reference/
 *.sqlite-wal
 coverage/
 *.lcov
-.env*
 !.env.example
 !.env.sample
 .DS_Store
@@ -22,3 +20,4 @@ Thumbs.db
 /tmp/
 .factory/
 AGENTS.md
+config.bat
